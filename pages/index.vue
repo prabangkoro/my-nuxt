@@ -15,6 +15,7 @@
       <div>
         <v-btn
           v-show="selected !== 0"
+          color="rgba(256, 256, 256, 0.75)"
           text
           @click="selected = selected - 1"
         >
@@ -24,6 +25,7 @@
       <div>
         <v-btn
           v-show="selected !== (prayers.length - 1)"
+          color="rgba(256, 256, 256, 0.75)"
           text
           @click="selected = selected + 1"
         >

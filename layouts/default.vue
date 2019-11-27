@@ -6,7 +6,7 @@
 
 <style lang="scss" scoped>
 .main {
-  background-image: url("~assets/photo-of-woman-standing-on-shore-looking-at-horizon-1656687.jpg");
+  background-image: url("~assets/photo_2019-11-27_13-26-05.jpg");
   background-color: #cccccc;
   background-repeat: no-repeat;
   background-size: cover;
