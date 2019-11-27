@@ -1,6 +1,6 @@
 # prayer
 
-> for a specal one
+> for the special one
 
 ## Build Setup
 
