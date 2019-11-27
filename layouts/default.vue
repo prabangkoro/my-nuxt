@@ -6,15 +6,10 @@
 
 <style lang="scss" scoped>
 .main {
-  background-image: url("~assets/photo_2019-11-27_13-26-05.jpg");
-  background-color: #cccccc;
-  background-repeat: no-repeat;
+  background: url("~assets/photo_2019-11-27_13-26-05.jpg") no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
   background-size: cover;
-  background-position: center center;
 }
 </style>
-
-<script>
-export default {
-}
-</script>

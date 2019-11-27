@@ -1,8 +1,8 @@
 {
   "name": "prayer",
   "version": "1.0.0",
-  "description": "for a specal one",
-  "author": "Bagus Prabangkoro (babang)",
+  "description": "for the special one",
+  "author": "babang",
   "private": true,
   "scripts": {
     "dev": "nuxt",
